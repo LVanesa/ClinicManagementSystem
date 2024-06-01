@@ -1,0 +1,37 @@
+Log,Date-time
+Patient and address tables have been crated,2024-06-01 23:59:18
+Doctor and Address tables have been crated,2024-06-01 23:59:18
+Treatment table has been created,2024-06-01 23:59:18
+Appointment table has been crated,2024-06-01 23:59:18
+Payment table has been crated,2024-06-01 23:59:18
+Payment_Treatment table has been crated,2024-06-01 23:59:18
+View all Patients,2024-06-01 23:59:23
+Searched Patients By Name LAU,2024-06-01 23:59:29
+View All Treatments,2024-06-01 23:59:40
+Got treatment with id 3,2024-06-02 00:00:18
+Got treatment with id 3,2024-06-02 00:00:18
+Added new Treatment: Medical gymnastics,2024-06-02 00:01:35
+Added new Treatment: Laser therapy,2024-06-02 00:02:05
+Added new Treatment: Shockwave therapy,2024-06-02 00:02:22
+Added new Treatment: Electrotherapy,2024-06-02 00:02:39
+Added new Treatment: Sports rehabilitation,2024-06-02 00:03:12
+Added new Treatment: Postoperative recovery,2024-06-02 00:03:33
+Added new Treatment: Mobility regain therapy,2024-06-02 00:03:52
+Added new Treatment: Individual consultation,2024-06-02 00:04:11
+Added new Treatment: Assessment and treatment planning,2024-06-02 00:04:30
+Added new Treatment: Nutritional consultation,2024-06-02 00:04:46
+Searched Treatments from category KINESIOTHERAPY,2024-06-02 00:04:53
+Searched Treatments from category PHYSIOTHERAPY,2024-06-02 00:04:59
+Searched Treatments from category MASSAGE,2024-06-02 00:05:07
+Searched Treatments from category REHABILITATION,2024-06-02 00:05:12
+Searched Treatments from category CONSULTATION,2024-06-02 00:05:19
+Added new Address and Patient,2024-06-02 00:08:24
+Added new Address and Patient,2024-06-02 00:10:05
+Added new Address and Patient,2024-06-02 00:11:38
+View all Patients,2024-06-02 00:11:41
+Added new Address and Doctor,2024-06-02 00:15:04
+Added new Address and Doctor,2024-06-02 00:16:04
+View All Doctors,2024-06-02 00:16:06
+Added new Address and Doctor,2024-06-02 00:17:14
+View All Doctors,2024-06-02 00:17:19
+View all payments,2024-06-02 00:17:54
